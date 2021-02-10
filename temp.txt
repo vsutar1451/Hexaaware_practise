@@ -2,4 +2,7 @@ hello vinayak here
 this is master commmit
 
 this is first branch commit
+city pune
+city kolkata
+city banglore
 
